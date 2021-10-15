@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manieswar45
-- 👀 I’m interested in Machine learning, Deep learning and Neural networks
+- 👀 I’m interested in Machine learning, Deep learning, Neural networks and Data science
 - 🌱 I’m currently learning Machine learning, Statistics, Deep Learning, Neural networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, Reach me on mani.eswar45@gmail.com
